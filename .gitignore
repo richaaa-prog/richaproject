@@ -1,7 +1,8 @@
 iricha
 abhi
 *.class
-*.txt
+folder1/*
 
 
 
+/bin/bash: wq: command not found
